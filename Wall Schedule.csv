@@ -1,0 +1,336 @@
+﻿Wall Schedule,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Area,Assembly Code,Assembly Description,Base Constraint,Family and Type,Length,Structural Material,Top Constraint,Type,Width
+,,,,,,,,,
+4318 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 12",71' - 10 1/32",Clad - White,Up to level: Level 5,EXT W - 12",0' - 11 5/8"
+3430 SF,B2010,Exterior Walls,Level 3,Basic Wall: EXT W - 1'6" 4,139' - 4 1/2",Clad - White,Up to level: Level 5,EXT W - 1'6" 4,1' - 6"
+415 SF,B2010,Exterior Walls,Level 3,Basic Wall: EXT W - 1'9" 3,16' - 6",Clad - White,Up to level: Level 5,EXT W - 1'9" 3,1' - 9"
+1455 SF,B2010,Exterior Walls,Level 3,Basic Wall: EXT W - 1'6" 2,56' - 6",Clad - White,Up to level: Level 5,EXT W - 1'6" 2,1' - 6"
+1240 SF,B2010,Exterior Walls,Level 3,Basic Wall: EXT W - 1'9" 2,49' - 6",Clad - White,Up to level: Level 5,EXT W - 1'9" 2,1' - 9"
+3418 SF,B2010,Exterior Walls,Level 3,Basic Wall: EXT W - 1'6" 3,138' - 8",Clad - White,Up to level: Level 5,EXT W - 1'6" 3,1' - 9"
+4505 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'6",75' - 10",Clad - White,Up to level: Level 5,EXT W - 1'6",1' - 6"
+1158 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',19' - 3 5/8",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+424 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'6",6' - 4 7/8",Clad - White,Up to level: Level 5,EXT W - 1'6",1' - 6"
+1228 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1/2' 2,20' - 2 1/2",Clad - White,Up to level: Level 5,EXT W - 1/2' 2,0' - 6"
+2010 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1/2',33' - 6",Clad - White,Up to level: Level 5,EXT W - 1/2',0' - 6"
+1000 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1/2',16' - 11",Clad - White,Up to level: Level 5,EXT W - 1/2',0' - 6"
+2160 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'6",36' - 3",Clad - White,Up to level: Level 5,EXT W - 1'6",1' - 6"
+450 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",7' - 6",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+120 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',2' - 6",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+120 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',2' - 0",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+210 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",3' - 10",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+840 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",14' - 8",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+540 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",9' - 0",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+360 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",6' - 0",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+575 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",10' - 1 1/2",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+135 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'4",1' - 7",Clad - White,Up to level: Level 5,EXT W - 1'4",1' - 4"
+360 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",6' - 0",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+480 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",8' - 0",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+180 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',2' - 6",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+180 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',2' - 6",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+120 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',2' - 6",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+200 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'9",3' - 4",Clad - White,Up to level: Level 5,EXT W - 1'9",1' - 9"
+70 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",1' - 2",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+205 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'4",3' - 8 31/32",Clad - White,Up to level: Level 5,EXT W - 1'4",1' - 4"
+705 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",12' - 4 31/32",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+540 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",10' - 2",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+280 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",4' - 8",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+200 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1' 8",2' - 10",Clad - White,Up to level: Level 5,EXT W - 1' 8",1' - 8"
+205 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'4",4' - 0 31/32",Clad - White,Up to level: Level 5,EXT W - 1'4",1' - 4"
+140 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',3' - 2",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+1185 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",19' - 1",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+140 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',1' - 10",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+60 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',1' - 6",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+88 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',1' - 11 17/32",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+420 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",7' - 8",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+388 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',6' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+184 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'9",3' - 0 23/32",Clad - White,Up to level: Level 5,EXT W - 1'9",1' - 9"
+788 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 9",13' - 1 11/16",Clad - White,Up to level: Level 5,EXT W - 9",0' - 9"
+200 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 5 1/2",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+50 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",1' - 4",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+400 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",6' - 9 1/2",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+545 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",9' - 0 31/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+215 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 10",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+230 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",4' - 0",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+370 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",6' - 8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1352 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",23' - 7 1/4",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+195 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 8 31/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+710 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",11' - 10",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+231 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',2' - 10 1/4",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+280 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',4' - 11",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+140 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'9",2' - 10",Clad - White,Up to level: Level 5,EXT W - 1'9",1' - 9"
+120 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',2' - 10 1/2",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+210 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 6",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+641 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",11' - 0",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+161 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 6",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+225 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",4' - 0",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1194 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",20' - 2 7/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+325 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 9",3' - 10 3/4",Clad - White,Up to level: Level 5,EXT W - 9",0' - 9"
+1113 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2',19' - 0 5/8",Clad - White,Up to level: Level 5,EXT W - 2',2' - 0"
+611 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W -3',11' - 2 5/32",Clad - White,Up to level: Level 5,EXT W -3',3' - 0"
+1598 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'4",26' - 4 19/32",Clad - White,Up to level: Level 5,EXT W - 1'4",1' - 4"
+450 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 3' 2",7' - 6",Clad - White,Up to level: Level 5,EXT W - 3' 2",3' - 2"
+105 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 3' 5",2' - 1 1/2",Clad - White,Up to level: Level 5,EXT W - 3' 5",3' - 5"
+167 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 3' 2",3' - 1 7/8",Clad - White,Up to level: Level 5,EXT W - 3' 2",3' - 2"
+28 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'4",1' - 2 19/32",Clad - White,Up to level: Level 5,EXT W - 1'4",1' - 4"
+198 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2',3' - 3 17/32",Clad - White,Up to level: Level 5,EXT W - 2',2' - 0"
+311 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 3' 6",5' - 11 5/32",Clad - White,Up to level: Level 5,EXT W - 3' 6",3' - 6"
+865 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2' 7",14' - 5",Clad - White,Up to level: Level 5,EXT W - 2' 7",2' - 7"
+184 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4',3' - 0 23/32",Clad - White,Up to level: Level 5,EXT W - 4',4' - 0"
+1231 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2',20' - 6 9/32",Clad - White,Up to level: Level 5,EXT W - 2',2' - 0"
+173 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4' 4",2' - 10 11/16",Clad - White,Up to level: Level 5,EXT W - 4' 4",4' - 4"
+57 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2' 7",0' - 11 13/32",Clad - White,Up to level: Level 5,EXT W - 2' 7",2' - 7"
+317 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4',5' - 3 3/8",Clad - White,Up to level: Level 5,EXT W - 4',4' - 0"
+195 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2' 2",3' - 0 3/4",Clad - White,Up to level: Level 5,EXT W - 2' 2",2' - 2"
+955 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+940 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 5 1/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+931 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+952 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",16' - 7 3/8",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+657 SF,B2010,Exterior Walls,Level 2,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+657 SF,B2010,Exterior Walls,Level 2,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+875 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 5 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+825 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",14' - 7 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+825 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",14' - 7 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+862 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",15' - 1 5/16",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+852 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",14' - 2 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1376 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 9",23' - 2 9/32",Clad - White,Up to level: Level 5,EXT W - 9",0' - 9"
+1397 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",23' - 0 3/8",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+282 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",5' - 7 3/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+589 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",10' - 1 29/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+390 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",6' - 8 29/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1060 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",17' - 8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+119 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",2' - 1 3/4",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+60 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 2",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+270 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",4' - 10",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1241 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",22' - 2",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+113 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",2' - 4 5/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+705 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",12' - 3 1/32",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+105 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",2' - 1 1/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+140 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 4",,Up to level: Level 5,Storefront,
+390 SF,B2020200,Curtain Walls,Ground Level,Curtain Wall: Storefront,6' - 6",,Up to level: Level 5,Storefront,
+94 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,6' - 6 9/32",,Up to level: Level 5,Storefront,
+85 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,5' - 8",,Up to level: Level 5,Storefront,
+266 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,17' - 11 5/8",,Up to level: Level 5,Storefront,
+346 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront 2,23' - 3 13/32",,Up to level: Level 5,Storefront 2,
+1067 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",17' - 6 3/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+598 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",10' - 6 9/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+940 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",15' - 8",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+1055 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",17' - 10 1/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1546 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",26' - 0 1/4",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+673 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",11' - 5 9/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+697 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",11' - 8 1/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+102 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",1' - 11 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+899 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",14' - 7 23/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1416 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",23' - 10 1/8",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+213 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1'4",3' - 3 5/8",Clad - White,Up to level: Level 5,EXT W - 1'4",1' - 4"
+976 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",16' - 11 9/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+514 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",8' - 6 13/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+268 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",4' - 7 17/32",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+169 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2",2' - 11 27/32",Clad - White,Up to level: Level 5,EXT W - 2",0' - 2"
+268 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2",4' - 5 17/32",Clad - White,Up to level: Level 5,EXT W - 2",0' - 2"
+174 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",2' - 7 7/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1502 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",25' - 6 15/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1080 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",18' - 2 29/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+2186 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",36' - 5 3/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1269 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",21' - 4 27/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+911 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 2 5/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1577 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",26' - 3 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+615 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",10' - 3",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+328 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",5' - 8 17/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+302 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",5' - 0 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+299 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",4' - 11 3/4",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+579 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",10' - 0",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+2405 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",40' - 3 31/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+535 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",9' - 2",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+85 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',1' - 5",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+478 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",7' - 9 11/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+174 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 1 13/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+89 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 8 3/4",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+2565 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",42' - 6",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+75 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 3",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+88 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 8 19/32",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+3524 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",58' - 8 7/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+932 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 6 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+932 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",15' - 6 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+786 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",13' - 7 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1230 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",20' - 7",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+82 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",1' - 7 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+554 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",9' - 2 23/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+75 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 5 31/32",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+296 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",6' - 8",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+1980 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",33' - 6",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+150 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",2' - 6",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+492 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",8' - 8 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+259 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",4' - 3 3/4",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+746 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",12' - 3 3/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+83 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 5 5/8",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+86 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 9 3/16",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+94 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 4 7/8",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+86 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 9 15/32",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+162 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",2' - 8 15/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+129 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 11 27/32",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+81 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 6 1/4",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+57 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 1 3/8",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+106 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",1' - 11 3/16",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+129 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",2' - 1 27/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1414 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",23' - 0 7/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1088 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",18' - 7 11/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1503 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",25' - 6",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+663 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",13' - 0",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+137 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",2' - 0 7/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+389 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",6' - 9 13/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+858 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",14' - 0 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+642 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",11' - 5 13/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1206 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',20' - 1 27/32",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+1984 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 1',34' - 0 5/8",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+670 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",11' - 11 3/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+545 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",8' - 10 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+467 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 2' 7",8' - 3 7/16",Clad - White,Up to level: Level 5,EXT W - 2' 7",2' - 7"
+690 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",11' - 11",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1460 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 8",24' - 10 29/32",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+520 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",8' - 8 29/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+154 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",2' - 7 7/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+443 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",7' - 7 9/16",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+1008 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",17' - 9 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1010 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",17' - 10",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+1008 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",17' - 9 17/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+975 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",17' - 6 1/2",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+974 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",17' - 3 23/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+621 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",10' - 7 1/4",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+795 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",13' - 6",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+429 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 4",7' - 8 3/4",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+237 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 11 3/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+506 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",9' - 1 19/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+230 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 9 29/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+166 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 3 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+1159 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",19' - 5 3/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+702 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",12' - 2 31/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+720 SF,B2010,Exterior Walls,Ground Level,Basic Wall: GW - 8",12' - 0",<By Category>,Up to level: Level 5,GW - 8",0' - 8"
+990 SF,B2010,Exterior Walls,Ground Level,Basic Wall: GW - 6",16' - 6",<By Category>,Up to level: Level 5,GW - 6",0' - 6"
+130 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,8' - 9 7/8",,Up to level: Level 5,Storefront,
+353 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,23' - 9 15/32",,Up to level: Level 5,Storefront,
+200 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,13' - 7",,Up to level: Level 5,Storefront,
+404 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,26' - 11 17/32",,Up to level: Level 5,Storefront,
+237 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,15' - 9 3/16",,Up to level: Level 5,Storefront,
+83 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,5' - 6",,Up to level: Level 5,Storefront,
+191 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,12' - 9 1/16",,Up to level: Level 5,Storefront,
+106 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,7' - 0 31/32",,Up to level: Level 5,Storefront,
+107 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,7' - 1 17/32",,Up to level: Level 5,Storefront,
+90 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,6' - 0",,Up to level: Level 5,Storefront,
+112 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,7' - 5 17/32",,Up to level: Level 5,Storefront,
+219 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront 4,14' - 7",,Up to level: Level 5,Storefront 4,
+44 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,2' - 11 1/2",,Up to level: Level 5,Storefront,
+246 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,16' - 5",,Up to level: Level 5,Storefront,
+102 SF,B2020200,Curtain Walls,Ground Level,Curtain Wall: Storefront,1' - 8 15/32",,Up to level: Level 5,Storefront,
+261 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront 2,17' - 4 17/32",,Up to level: Level 5,Storefront 2,
+199 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 6",3' - 3 3/4",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+132 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,8' - 10",,Up to level: Level 5,Storefront,
+136 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 1 3/16",,Up to level: Level 5,Storefront,
+164 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,11' - 5 1/4",,Up to level: Level 5,Storefront,
+575 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 12",9' - 4 3/16",Clad - White,Up to level: Level 5,EXT W - 12",0' - 11 5/8"
+3590 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 12",59' - 10",Clad - White,Up to level: Level 5,EXT W - 12",0' - 11 5/8"
+9519 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 12",137' - 4 15/32",Clad - White,Up to level: Level 5,EXT W - 12",0' - 11 5/8"
+6912 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 12",115' - 2 7/16",Clad - White,Up to level: Level 5,EXT W - 12",0' - 11 5/8"
+5912 SF,B2010,Exterior Walls,Ground Level,Basic Wall: EXT W - 12",137' - 10 9/32",Clad - White,Up to level: Level 5,EXT W - 12",0' - 11 5/8"
+3868 SF,B2010,Exterior Walls,Level 3,Basic Wall: EXT W - 12",86' - 11",Clad - White,Up to level: Level 5,EXT W - 12",0' - 11 5/8"
+600 SF,B2010,Exterior Walls,Level 3,Basic Wall: EXT W - 12",20' - 0",Clad - White,Up to level: Level 5,EXT W - 12",0' - 11 5/8"
+167 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,11' - 4 17/32",,Up to level: Level 5,Storefront,
+9 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",1' - 3 15/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+143 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 6",,Up to level: Level 5,Storefront,
+146 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 9",,Up to level: Level 5,Storefront,
+143 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 6",,Up to level: Level 5,Storefront,
+144 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 7",,Up to level: Level 5,Storefront,
+144 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 7",,Up to level: Level 5,Storefront,
+144 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 7",,Up to level: Level 5,Storefront,
+145 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 8",,Up to level: Level 5,Storefront,
+144 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 7",,Up to level: Level 5,Storefront,
+145 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 7 3/4",,Up to level: Level 5,Storefront,
+171 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,11' - 5",,Up to level: Level 5,Storefront,
+297 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,19' - 9 13/32",,Up to level: Level 5,Storefront,
+144 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 7",,Up to level: Level 5,Storefront,
+138 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 6",,Up to level: Level 5,Storefront,
+131 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 3 1/8",,Up to level: Level 5,Storefront,
+1 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 1",,Up to level: Level 5,Storefront,
+138 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 2",,Up to level: Level 5,Storefront,
+1 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 1",,Up to level: Level 5,Storefront,
+139 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 3",,Up to level: Level 5,Storefront,
+1 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 1",,Up to level: Level 5,Storefront,
+138 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 2",,Up to level: Level 5,Storefront,
+138 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 2",,Up to level: Level 5,Storefront,
+161 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,10' - 8 3/4",,Up to level: Level 5,Storefront,
+1 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 0 1/2",,Up to level: Level 5,Storefront,
+160 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,10' - 8",,Up to level: Level 5,Storefront,
+3 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 2",,Up to level: Level 5,Storefront,
+158 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,10' - 6",,Up to level: Level 5,Storefront,
+1 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 1",,Up to level: Level 5,Storefront,
+134 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,8' - 11 15/32",,Up to level: Level 5,Storefront,
+4 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 3 3/32",,Up to level: Level 5,Storefront,
+135 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 0 1/8",,Up to level: Level 5,Storefront,
+3 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 2",,Up to level: Level 5,Storefront,
+133 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 2",,Up to level: Level 5,Storefront,
+143 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront 2,9' - 9 1/32",,Up to level: Level 5,Storefront 2,
+77 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,5' - 4 7/16",,Up to level: Level 5,Storefront,
+11 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,0' - 8 31/32",,Up to level: Level 5,Storefront,
+79 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,5' - 3 1/32",,Up to level: Level 5,Storefront,
+93 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,6' - 2",,Up to level: Level 5,Storefront,
+83 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,5' - 6 1/32",,Up to level: Level 5,Storefront,
+186 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,12' - 5 1/32",,Up to level: Level 5,Storefront,
+135 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 2 31/32",,Up to level: Level 5,Storefront,
+319 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront 2,21' - 6 13/16",,Up to level: Level 5,Storefront 2,
+23 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,1' - 9",,Up to level: Level 5,Storefront,
+134 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 2",,Up to level: Level 5,Storefront,
+82 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront 3,5' - 5 9/32",,Up to level: Level 5,Storefront 3,
+105 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",11' - 1 9/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+647 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 8",44' - 11 3/16",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+116 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 8",10' - 2 31/32",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+82 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",6' - 2 17/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+116 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",10' - 2 31/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+34 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",2' - 9 3/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+21 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",0' - 10 23/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+147 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",13' - 4 1/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+51 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",2' - 10 23/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+20 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 1'6",1' - 7",Clad - White,Up to level: Level 5,EXT W - 1'6",1' - 6"
+80 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",5' - 6 27/32",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+226 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 4' 6",15' - 0 31/32",Clad - White,Up to level: Level 5,EXT W - 4' 6",4' - 6"
+17 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 3' 2",1' - 1 3/16",Clad - White,Up to level: Level 5,EXT W - 3' 2",3' - 2"
+30 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 3' 6",2' - 0",Clad - White,Up to level: Level 5,EXT W - 3' 6",3' - 6"
+53 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 3' 6",3' - 6",Clad - White,Up to level: Level 5,EXT W - 3' 6",3' - 6"
+53 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 1',3' - 6",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+35 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 8",2' - 4",Clad - White,Up to level: Level 5,EXT W - 8",0' - 8"
+139 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,9' - 3",,Up to level: Level 5,Storefront,
+134 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,8' - 11",,Up to level: Level 5,Storefront,
+129 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,8' - 7",,Up to level: Level 5,Storefront,
+83 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,5' - 6 15/32",,Up to level: Level 5,Storefront,
+72 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",7' - 11 1/8",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+48 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 2",3' - 4 13/32",Clad - White,Up to level: Level 5,EXT W - 2",0' - 2"
+15 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 2",0' - 11",Clad - White,Up to level: Level 5,EXT W - 2",0' - 2"
+15 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 2",0' - 11",Clad - White,Up to level: Level 5,EXT W - 2",0' - 2"
+273 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 1',18' - 5 1/4",Clad - White,Up to level: Level 5,EXT W - 1',1' - 0"
+77 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 4",5' - 7 29/32",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+25 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 4",2' - 1 27/32",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+14 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 4",1' - 1 1/8",Clad - White,Up to level: Level 5,EXT W - 4",0' - 4"
+188 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,12' - 6",,Up to level: Level 5,Storefront,
+122 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront,8' - 1 11/16",,Up to level: Level 5,Storefront,
+223 SF,B2010,Exterior Walls,Level 4,Basic Wall: EXT W - 6",15' - 1 5/16",Clad - White,Up to level: Level 5,EXT W - 6",0' - 6"
+218 SF,B2020200,Curtain Walls,Level 4,Curtain Wall: Storefront 4,14' - 6",,Up to level: Level 5,Storefront 4,
+4213 SF,B2020200,Curtain Walls,Ground Level,Curtain Wall: Storefront 3,140' - 5 1/32",,Up to level: Level 3,Storefront 3,
+3631 SF,B2020200,Curtain Walls,Ground Level,Curtain Wall: Storefront 3,121' - 0 3/16",,Up to level: Level 3,Storefront 3,
+13 SF,B2020200,Curtain Walls,Ground Level,Curtain Wall: Storefront 3,0' - 10",,Up to level: Level 2,Storefront 3,
+4800 SF,B2020200,Curtain Walls,Ground Level,Curtain Wall: Storefront 3,160' - 0 3/16",,Up to level: Level 3,Storefront 3,
+1276 SF,B2020200,Curtain Walls,Ground Level,Curtain Wall: Storefront 3,85' - 1 1/8",,Up to level: Level 2,Storefront 3,
